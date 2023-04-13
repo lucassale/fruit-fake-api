@@ -1,6 +1,6 @@
 Uma fake API para uma aplicação de sacolão
 
-Base URL:
+Base URL: https://fruit-fake-api.onrender.com
 
 ## ROTAS
 
