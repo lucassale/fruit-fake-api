@@ -23,7 +23,7 @@ Padrão de Resposta
         "price": 2
     },
     {
-        "id": 1,
+        "id": 3,
         "name": "Amora",
         "category": "vermelha",
         "price": 5
